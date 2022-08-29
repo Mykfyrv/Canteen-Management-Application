@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_accounts"
+            android:icon="@drawable/ic_accounts"
+            android:title="Accounts" />
+        <item android:id="@+id/nav_inventory"
+            android:icon="@drawable/ic_inventory"
+            android:title="Inventory" />
+        <item android:id="@+id/nav_sales"
+            android:icon="@drawable/ic_sales"
+            android:title="Sales Report" />
+        <item android:id="@+id/nav_records"
+            android:icon="@drawable/ic_calendar"
+            android:title="Sales Records" />
+        <item android:id="@+id/nav_admin_pass"
+            android:icon="@drawable/ic_password"
+            android:title="Change Password" />
+
+    </group>
+
+    <group android:id="@+id/menu_bottom"
+        android:checkableBehavior="none">
+
+        <item android:id="@+id/nav_admin_logout"
+            android:icon="@drawable/ic_logout"
+            android:title="Logout" />
+    </group>
+
+</menu>

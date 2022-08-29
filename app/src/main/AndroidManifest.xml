@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.navdrawertest10">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/lhklogo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/lhklogo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.NavDrawerTest10">
+        <activity
+            android:name=".CanteenUpdateMenuAct"
+            android:exported="true" />
+        <activity
+            android:name=".CanteenUpdateFoodAct"
+            android:exported="true" />
+        <activity
+            android:name=".AdmininventoryUpdateItemsAct"
+            android:exported="false" />
+        <activity
+            android:name=".AdminInventoryAddItemsAct"
+            android:exported="false" />
+        <activity
+            android:name=".ZAdminInventoryDrawer_MainAct"
+            android:exported="true" />
+        <activity
+            android:name=".AdminResetAccountsPasswordAct"
+            android:exported="false" />
+        <activity
+            android:name=".AdminRegisterAccountsAct"
+            android:exported="false" />
+        <activity
+            android:name=".ZAdminDrawer_MainAct"
+            android:exported="true" />
+        <activity
+            android:name=".ZCustomerDrawer_MainAct"
+            android:exported="true" />
+        <activity
+            android:name=".ZCanteenDrawer_MainAct"
+            android:exported="true" />
+        <activity
+            android:name=".CanteenUploadFoodAct"
+            android:exported="true" />
+        <activity
+            android:name=".ALogin"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

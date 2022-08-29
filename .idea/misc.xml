@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/drawable-v24/ic_sales.xml" value="0.2203125" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/drawable/ic_account.xml" value="0.2203125" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/drawable/ic_accounts.xml" value="0.2203125" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/drawable/ic_add.xml" value="0.2203125" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/drawable/ic_addcart.xml" value="0.2169230769230769" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/drawable/ic_back.xml" value="0.12447916666666667" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.2203125" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/drawable/ic_change.xml" value="0.12447916666666667" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/drawable/ic_confirm.xml" value="0.2203125" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/drawable/ic_date.xml" value="0.2203125" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/drawable/ic_inventory.xml" value="0.2203125" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/drawable/ic_login.xml" value="0.2203125" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/drawable/ic_logout.xml" value="0.2203125" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/drawable/ic_name.xml" value="0.2203125" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/drawable/ic_password.xml" value="0.2203125" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/drawable/ic_passwordold.xml" value="0.12447916666666667" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/drawable/ic_post.xml" value="0.2203125" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/drawable/ic_proceed.xml" value="0.2203125" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/drawable/ic_quantity.xml" value="0.2203125" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/drawable/ic_ready.xml" value="0.12447916666666667" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/drawable/ic_refresh.xml" value="0.2203125" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/drawable/ic_register.xml" value="0.2203125" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/drawable/ic_registration.xml" value="0.2203125" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/drawable/ic_reset.xml" value="0.2203125" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/drawable/ic_reset_pass.xml" value="0.2203125" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/drawable/ic_sales.xml" value="0.2203125" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/drawable/ic_update.xml" value="0.2203125" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/drawable/ic_upload.xml" value="0.2203125" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/drawable/ic_user.xml" value="0.2203125" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/drawable/ic_voucher.xml" value="0.2203125" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/accounts.xml" value="0.12047101449275362" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/activity_alogin.xml" value="0.11005434782608696" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/admin_accounts_fragment.xml" value="0.12047101449275362" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/admin_change_password_fragment.xml" value="0.12047101449275362" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/admin_inventory_fragment.xml" value="0.12047101449275362" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/admin_invetory_fragment.xml" value="0.12047101449275362" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/admin_register_accounts_act.xml" value="0.12047101449275362" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/admin_reset_accounts_password_act.xml" value="0.12047101449275362" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/admin_sales_fragment.xml" value="0.12047101449275362" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/admininventory_add_items_act.xml" value="0.12047101449275362" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/admininventory_change_password_fragment.xml" value="0.12047101449275362" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/admininventory_inventory.xml" value="0.1" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/admininventory_update_items_act.xml" value="0.12047101449275362" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/canteen_change_password_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/canteen_menu_fragment.xml" value="0.21296296296296297" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/canteen_orders_fragment.xml" value="0.22" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/canteen_post_fragment.xml" value="0.16847826086956522" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/canteen_sales_fragment.xml" value="0.32303370786516855" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/canteen_upload_food_act.xml" value="0.20416666666666666" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/customer_cart_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/customer_change_password_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/customer_check_out_fragment.xml" value="0.32303370786516855" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/customer_menu_fragment.xml" value="0.12047101449275362" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/customer_my_order_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/customer_notif_fragment.xml" value="0.1431159420289855" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/inventory_items.xml" value="0.12047101449275362" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/itemlist_canteen_menu.xml" value="0.16847826086956522" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/itemlist_canteen_order.xml" value="0.33" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/itemlist_canteen_posted.xml" value="0.15942028985507245" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/itemlist_canteen_sales.xml" value="0.15942028985507245" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/itemlist_customer_cart.xml" value="0.33" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/itemlist_customer_checkout.xml" value="0.26685393258426965" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/itemlist_customer_menu.xml" value="0.15942028985507245" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/itemlist_customer_my_order.xml" value="0.25" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/itemlist_customer_notification.xml" value="0.15942028985507245" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/nav_header.xml" value="0.12047101449275362" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/zadmin_drawer.xml" value="0.12047101449275362" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/zadmininventory_drawer.xml" value="0.12047101449275362" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/zcanteen_drawer.xml" value="0.12047101449275362" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/layout/zcustomer_drawer.xml" value="0.12047101449275362" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/menu/drawer_menu_admin.xml" value="0.20416666666666666" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/menu/drawer_menu_admin_inventory.xml" value="0.20416666666666666" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/menu/drawer_menu_canteen.xml" value="0.17864583333333334" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/menu/drawer_menu_customer.xml" value="0.17864583333333334" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/menu/search_menu_admin.xml" value="0.20416666666666666" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/menu/search_menu_admin_inventory.xml" value="0.20416666666666666" />
+        <entry key="..\:/NavDrawerTest10/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.19479166666666667" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/drawable/img_border.xml" value="0.1" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/activity_admin_sales_record.xml" value="0.3283514492753623" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/activity_alogin.xml" value="0.33" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/admin_accounts_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/admin_change_password_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/admin_inventory_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/admin_records_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/admin_register_accounts_act.xml" value="0.25" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/admin_reset_accounts_password_act.xml" value="0.25" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/admin_sales_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/admin_sales_record_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/admininventory_add_items_act.xml" value="0.18" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/admininventory_change_password_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/admininventory_inventory.xml" value="0.33" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/admininventory_update_items_act.xml" value="0.3625" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/canteen_change_password_fragment.xml" value="0.33695652173913043" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/canteen_menu_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/canteen_orders_fragment.xml" value="0.22" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/canteen_post_fragment.xml" value="0.22" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/canteen_sales_fragment.xml" value="0.3509963768115942" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/canteen_update_food_act.xml" value="0.22" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/canteen_update_menu_act.xml" value="0.33" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/canteen_upload_food_act.xml" value="0.22" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/customer_cart_fragment.xml" value="0.3625" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/customer_change_password_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/customer_check_out_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/customer_menu_fragment.xml" value="0.3401268115942029" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/customer_my_order_fragment.xml" value="0.371875" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/customer_notif_fragment.xml" value="0.3401268115942029" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/itemlist_accounts.xml" value="0.33559782608695654" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/itemlist_admin_records.xml" value="0.33559782608695654" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/itemlist_canteen_inventory.xml" value="0.33559782608695654" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/itemlist_canteen_menu.xml" value="0.67" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/itemlist_canteen_order.xml" value="0.67" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/itemlist_canteen_posted.xml" value="0.33" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/itemlist_canteen_sales.xml" value="0.3625" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/itemlist_customer_cart.xml" value="0.371875" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/itemlist_customer_checkout.xml" value="0.33" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/itemlist_customer_menu.xml" value="0.67" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/itemlist_customer_notification.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/nav_header.xml" value="0.1" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/test.xml" value="0.18085106382978725" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/zadmin_drawer.xml" value="0.1" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/zcanteen_drawer.xml" value="0.3625" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/layout/zcustomer_drawer.xml" value="0.25271739130434784" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/Canteen Management Application/app/src/main/res/menu/drawer_menu_admin.xml" value="0.3625" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/drawable/ic_cart.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/drawable/ic_food.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/drawable/ic_launcher_background.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/drawable/ic_menu.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/drawable/ic_orders.xml" value="0.3828125" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/drawable/ic_post.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/activity_alogin.xml" value="0.3645833333333333" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/activity_edit_food.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/activity_second.xml" value="0.3645833333333333" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/activity_upload_food.xml" value="0.3625" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/canteen_menu_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/canteen_orders_fragment.xml" value="0.28125" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/canteen_post_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/canteen_record_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/canteen_sales_fragment.xml" value="0.629695885509839" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/canteen_upload_food_act.xml" value="0.33469202898550726" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/customer_cart_fragment.xml" value="0.5" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/customer_check_out.xml" value="0.33" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/customer_check_out_fragment.xml" value="0.5789473684210527" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/customer_menu_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/customer_my_order_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/customer_notif_fragment.xml" value="0.28125" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/customer_voucher_fragment.xml" value="0.30932971014492755" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/foodmenuitem.xml" value="0.3625" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/fragment_customer_cart.xml" value="0.3645833333333333" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/fragment_customer_menu.xml" value="0.3645833333333333" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/fragment_customer_notif.xml" value="0.3645833333333333" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/fragment_menu.xml" value="0.25769927536231885" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/fragment_orders.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/fragment_post.xml" value="0.33" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/fragment_recipe.xml" value="0.33" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/item.xml" value="0.5" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/itemlist.xml" value="0.2" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/itemlist_canteen_menu.xml" value="0.5" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/itemlist_canteen_order.xml" value="0.33" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/itemlist_canteen_posted.xml" value="0.20555555555555555" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/itemlist_canteen_record.xml" value="0.33" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/itemlist_canteen_sales.xml" value="0.75" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/itemlist_customer_cart.xml" value="0.33" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/itemlist_customer_checkout.xml" value="0.5" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/itemlist_customer_menu.xml" value="0.369880277252678" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/itemlist_customer_my_order.xml" value="0.67" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/itemlist_customer_notification.xml" value="0.6165966386554622" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/itemtry.xml" value="0.35144927536231885" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/nav_header.xml" value="0.2907608695652174" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/test.xml" value="0.3625" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/xxx.xml" value="0.33" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/zcanteen_drawer.xml" value="0.19161676646706588" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/layout/zcustomer_drawer.xml" value="0.360054347826087" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/menu/drawer_menu.xml" value="0.67" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/menu/drawer_menu_canteen.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/NavDrawerTest10/app/src/main/res/menu/drawer_menu_customer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/PC/Desktop/Super Final Final/NavDrawerTest10/app/src/main/res/drawable/ic_password.xml" value="0.3828125" />
+        <entry key="..\:/Users/PC/Desktop/Super Final Final/NavDrawerTest10/app/src/main/res/drawable/ic_passwordold.xml" value="0.3828125" />
+        <entry key="..\:/Users/PC/Desktop/Super Final Final/NavDrawerTest10/app/src/main/res/drawable/ic_sales.xml" value="0.3828125" />
+        <entry key="..\:/Users/PC/Desktop/Super Final Final/NavDrawerTest10/app/src/main/res/layout/activity_alogin.xml" value="0.3491847826086957" />
+        <entry key="..\:/Users/PC/Desktop/Super Final Final/NavDrawerTest10/app/src/main/res/layout/admin_register_accounts_act.xml" value="0.30033003300330036" />
+        <entry key="..\:/Users/PC/Desktop/Super Final Final/NavDrawerTest10/app/src/main/res/layout/admin_reset_accounts_password_act.xml" value="0.3491847826086957" />
+        <entry key="..\:/Users/PC/Desktop/Super Final Final/NavDrawerTest10/app/src/main/res/layout/admininventory_add_items_act.xml" value="0.1" />
+        <entry key="..\:/Users/PC/Desktop/Super Final Final/NavDrawerTest10/app/src/main/res/layout/admininventory_change_password_fragment.xml" value="0.3491847826086957" />
+        <entry key="..\:/Users/PC/Desktop/Super Final Final/NavDrawerTest10/app/src/main/res/layout/admininventory_update_items_act.xml" value="0.3491847826086957" />
+        <entry key="..\:/Users/PC/Desktop/Super Final Final/NavDrawerTest10/app/src/main/res/layout/canteen_change_password_fragment.xml" value="0.3491847826086957" />
+        <entry key="..\:/Users/PC/Desktop/Super Final Final/NavDrawerTest10/app/src/main/res/layout/canteen_menu_fragment.xml" value="0.3541666666666667" />
+        <entry key="..\:/Users/PC/Desktop/Super Final Final/NavDrawerTest10/app/src/main/res/layout/canteen_orders_fragment.xml" value="0.3541666666666667" />
+        <entry key="..\:/Users/PC/Desktop/Super Final Final/NavDrawerTest10/app/src/main/res/layout/canteen_post_fragment.xml" value="0.31521739130434784" />
+        <entry key="..\:/Users/PC/Desktop/Super Final Final/NavDrawerTest10/app/src/main/res/layout/canteen_sales_fragment.xml" value="0.5" />
+        <entry key="..\:/Users/PC/Desktop/Super Final Final/NavDrawerTest10/app/src/main/res/layout/canteen_upload_food_act.xml" value="0.3491847826086957" />
+        <entry key="..\:/Users/PC/Desktop/Super Final Final/NavDrawerTest10/app/src/main/res/layout/customer_cart_fragment.xml" value="0.3541666666666667" />
+        <entry key="..\:/Users/PC/Desktop/Super Final Final/NavDrawerTest10/app/src/main/res/layout/customer_change_password_fragment.xml" value="0.3491847826086957" />
+        <entry key="..\:/Users/PC/Desktop/Super Final Final/NavDrawerTest10/app/src/main/res/layout/customer_my_order_fragment.xml" value="0.338768115942029" />
+        <entry key="..\:/Users/PC/Desktop/Super Final Final/NavDrawerTest10/app/src/main/res/layout/itemlist_canteen_posted.xml" value="0.31521739130434784" />
+        <entry key="..\:/Users/PC/Desktop/Super Final Final/NavDrawerTest10/app/src/main/res/layout/itemlist_customer_cart.xml" value="0.75" />
+        <entry key="..\:/Users/PC/Desktop/Super Final Final/NavDrawerTest10/app/src/main/res/layout/itemlist_customer_my_order.xml" value="0.67" />
+        <entry key="..\:/Users/PC/Desktop/Super Final Final/NavDrawerTest10/app/src/main/res/layout/itemlist_customer_notification.xml" value="0.75" />
+        <entry key="..\:/Users/PC/Desktop/Super Final Final/NavDrawerTest10/app/src/main/res/layout/nav_header.xml" value="0.33" />
+        <entry key="..\:/Users/PC/Desktop/Super Final Final/NavDrawerTest10/app/src/main/res/layout/zadmin_drawer.xml" value="0.3541666666666667" />
+        <entry key="..\:/Users/PC/Desktop/Super Final Final/NavDrawerTest10/app/src/main/res/layout/zadmininventory_drawer.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/PC/Desktop/Super Final Final/NavDrawerTest10/app/src/main/res/layout/zcanteen_drawer.xml" value="0.3541666666666667" />
+        <entry key="..\:/Users/PC/Desktop/Super Final Final/NavDrawerTest10/app/src/main/res/layout/zcustomer_drawer.xml" value="0.3541666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

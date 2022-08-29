@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "557258456241",
+    "project_id": "canteen-management-appli-e4f6b",
+    "storage_bucket": "canteen-management-appli-e4f6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557258456241:android:98639dd749a55b9e083690",
+        "android_client_info": {
+          "package_name": "com.example.navdrawertest10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557258456241-s6begqkqe38h79s4767e9kks36oduccb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsvSacaopYPYkQUoN_K0CEdxRknlrz5gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557258456241-s6begqkqe38h79s4767e9kks36oduccb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
